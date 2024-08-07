@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.codehaus.groovy:groovy-servlet:3.0.19" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.codehaus.groovy" artifactId="groovy-servlet" version="3.0.19" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-servlet/3.0.19/4abdb03e1acb6fc760fd03381a1fe645dbe63925/groovy-servlet-3.0.19.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-servlet/3.0.19/b16f2fc8ab27a26d13c9b08631e8b3ce7909a943/groovy-servlet-3.0.19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.codehaus.groovy:groovy-astbuilder:3.0.19" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.codehaus.groovy" artifactId="groovy-astbuilder" version="3.0.19" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-astbuilder/3.0.19/6867bb0d6a5ee96d45dee124dffa5a98d6af3fa6/groovy-astbuilder-3.0.19.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-astbuilder/3.0.19/7db1304e4010a11eb51f05e778445f9be8a1d3f0/groovy-astbuilder-3.0.19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

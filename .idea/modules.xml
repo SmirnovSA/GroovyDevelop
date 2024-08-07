@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GroovyDevelop.iml" filepath="$PROJECT_DIR$/GroovyDevelop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hw01-gradle/GroovyDevelop.hw01-gradle.iml" filepath="$PROJECT_DIR$/.idea/modules/hw01-gradle/GroovyDevelop.hw01-gradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hw01-gradle/GroovyDevelop.hw01-gradle.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hw01-gradle/GroovyDevelop.hw01-gradle.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hw01-gradle/GroovyDevelop.hw01-gradle.test.iml" filepath="$PROJECT_DIR$/.idea/modules/hw01-gradle/GroovyDevelop.hw01-gradle.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GroovyDevelop.main.iml" filepath="$PROJECT_DIR$/.idea/modules/GroovyDevelop.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GroovyDevelop.test.iml" filepath="$PROJECT_DIR$/.idea/modules/GroovyDevelop.test.iml" />
+    </modules>
+  </component>
+</project>
